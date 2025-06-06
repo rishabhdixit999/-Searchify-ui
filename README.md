@@ -2,7 +2,11 @@
 
 A clean, responsive Google-style search engine homepage clone built with **HTML** and **Tailwind CSS**. This project is ideal for learning layout design, utility-first CSS, and static web development practices.
 
-![Searchify UI Screenshot](preview.png) 
+---
+
+## 🌐 Live Demo
+
+👉 **[Click here to view the live website](https://rishabhdixit999.github.io/-Searchify-ui/)**
 
 ---
 
@@ -15,6 +19,5 @@ A clean, responsive Google-style search engine homepage clone built with **HTML*
 - ✅ Static search input section
 
 ---
-
 
 
